@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1280eb88-10e3-4fda-bde4-563dba70e973" name="Changes" comment="Lecture 9 exercises">
-      <change afterPath="$PROJECT_DIR$/capture_the_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find_ccurrences_of_word_in_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find_variable_names_in_sentences.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_emails.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YanaZhekova"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YanaZhekova&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YanaZhekova/Fund_lecture9.git",
-    "accountId": "6c50461b-b237-4dc6-a6c1-f19ce9db4ea2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YanaZhekova/Fund_lecture9.git&quot;,
+    &quot;accountId&quot;: &quot;6c50461b-b237-4dc6-a6c1-f19ce9db4ea2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2j6WSp3QyDEuxSErgOWEs2jWjUs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,20 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.capture_the_numbers.executor": "Run",
-    "Python.extract_emails.executor": "Run",
-    "Python.find_ccurrences_of_word_in_sentence.executor": "Run",
-    "Python.find_variable_names_in_sentences.executor": "Run",
-    "Python.match_dates.executor": "Run",
-    "Python.match_full_name.executor": "Run",
-    "Python.match_numbers.executor": "Run",
-    "Python.match_phone_number.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.capture_the_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract_emails.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_ccurrences_of_word_in_sentence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_variable_names_in_sentences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_dates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_full_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_phone_number.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.extract_emails">
     <configuration name="capture_the_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fund_lecture9" />
@@ -216,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720709967256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lecture 9 exercises">
+      <option name="closed" value="true" />
+      <created>1720849904986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720849904986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
