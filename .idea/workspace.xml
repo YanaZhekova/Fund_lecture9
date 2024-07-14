@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1280eb88-10e3-4fda-bde4-563dba70e973" name="Changes" comment="Lecture 9 exercises">
+      <change afterPath="$PROJECT_DIR$/furniture.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_emails.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.capture_the_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.extract_emails.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_ccurrences_of_word_in_sentence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_variable_names_in_sentences.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match_dates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match_full_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match_phone_number.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.capture_the_numbers.executor": "Run",
+    "Python.extract_emails.executor": "Run",
+    "Python.find_ccurrences_of_word_in_sentence.executor": "Run",
+    "Python.find_variable_names_in_sentences.executor": "Run",
+    "Python.furniture.executor": "Debug",
+    "Python.match_dates.executor": "Run",
+    "Python.match_full_name.executor": "Run",
+    "Python.match_numbers.executor": "Run",
+    "Python.match_phone_number.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.extract_emails">
+}]]></component>
+  <component name="RunManager" selected="Python.furniture">
     <configuration name="capture_the_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fund_lecture9" />
       <option name="ENV_FILES" value="" />
@@ -149,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="furniture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fund_lecture9" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/match_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/furniture.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.furniture" />
         <item itemvalue="Python.extract_emails" />
         <item itemvalue="Python.find_ccurrences_of_word_in_sentence" />
         <item itemvalue="Python.find_variable_names_in_sentences" />
         <item itemvalue="Python.capture_the_numbers" />
-        <item itemvalue="Python.match_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -221,11 +222,30 @@
       <option name="project" value="LOCAL" />
       <updated>1720849904986</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lecture 9 exercises">
+      <option name="closed" value="true" />
+      <created>1720943795733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720943795733</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lecture 9 exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Lecture 9 exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/furniture.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
